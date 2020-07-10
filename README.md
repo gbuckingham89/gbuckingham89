@@ -1,4 +1,4 @@
-# Hello, I'm George! 👋
+# Hello, I'm [George](https://www.georgebuckingham.com/)! 👋
 
 I'm a full-stack web developer based in Bournemouth, UK 🏖☀️.
 
