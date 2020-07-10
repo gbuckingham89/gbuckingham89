@@ -9,9 +9,9 @@ I've built web based software:
 * 📞 To manage the workload across two call centres for an insurance company (Laravel)
 * 📹 That delivers video-based online training programs (Laravel, Tailwind CSS, AlpineJS, Laravel Livewire)
 * 🎓 To provide a browser based learning platform for children with 2-way video conferencing (Vue.js SPA)
-* 🛥 That manages maintainance programs onboard luxury motor boats (Bespoke PHP)
+* 🛥 That manages maintenance programs onboard luxury motor boats (Bespoke PHP)
 * 🛍 To sell a range of niche products internationally (Laravel)
-* 🚐 That manages the stock for a large retailer of luxury motorhomes (Bespke PHP & WordPress integration)
+* 🚐 That manages the stock for a large retailer of luxury motorhomes (Bespoke PHP & WordPress integration)
 
 Want to know more about me?
 
