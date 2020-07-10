@@ -13,7 +13,9 @@ I've built web based software:
 * 🛍 To sell a range of niche products internationally (Laravel)
 * 🚐 That manages the stock for a large retailer of luxury motorhomes (Bespoke PHP & WordPress integration)
 
-Want to know more about me?
+Away from coding, I love to travel ✈️, cycle 🚴‍♂️ and spend time outdoors 🏕.
+
+Want to know more about me? Got an interesting project you need help with?
 
 * ✉️ [You can send me a message](https://www.georgebuckingham.com/contact/)
 * 👨‍💻 You can read my blog at [https://www.georgebuckingham.com/](https://www.georgebuckingham.com/)
