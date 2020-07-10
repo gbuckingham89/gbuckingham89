@@ -6,7 +6,7 @@ I'm focused on developing bespoke web applications with Laravel, Vue.js, Tailwin
 
 I've built web based software:
 
-* 📞 To manage the workload across two call centres for an insurance company (Laravel)
+* ☎️ To manage the workload across two call centres for an insurance company (Laravel)
 * 📹 That delivers video-based online training programs (Laravel, Tailwind CSS, AlpineJS, Laravel Livewire)
 * 🎓 To provide a browser based learning platform for children with 2-way video conferencing (Vue.js SPA)
 * 🛥 That manages maintenance programs onboard luxury motor boats (Bespoke PHP)
