@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer based in Bournemouth, UK 🏖☀️.
 
-I'm focused on developing bespoke web applications with Laravel, Vue.js, TailwindCSS, AlpineJS and Laravel Livewire.
+I'm focused on developing bespoke web applications with Laravel, Vue.js, Inertia.js, TailwindCSS and AlpineJS.
 
 I've built web based software:
 
