@@ -5,8 +5,8 @@ I'm a full-stack web developer based in Bournemouth, UK 🏖☀️.
 I'm focused on developing bespoke web applications with Laravel, Vue.js, Inertia.js, Alpine.js and TailwindCSS.
 
 I've built web based software:
-
-* 🗺 That analyses every plot of land in England & Wales for potential residential development (PostGIS, Laravel, Vue.js, Inertia.js, Alpine.js Tailwind CSS)
+* 📊 A comprehensive business managaement system for an internation VFX company (Laravel)
+* 🗺 That analyses every plot of land in England & Wales for potential residential development (PostGIS, Laravel, Vue.js, Inertia.js, Tailwind CSS)
 * ☎️ To manage the workload across two call centres for an insurance company (Laravel)
 * 📹 That delivers video-based online training programs (Laravel, Tailwind CSS, Alpine.js, Laravel Livewire)
 * 🎓 To provide a browser based learning platform for children with 2-way video conferencing (Vue.js SPA)
