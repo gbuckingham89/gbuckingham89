@@ -1,6 +1,6 @@
 # Hello, I'm George 👋
 
-I'm based in Bournemouth, UK. As the head of development at Yammayap, I manage a team of developers that create bespoke software solutions built on Laravel that help businesses to grow. I have a passion for developing great software and helping others to do the same.
+I'm based in Bournemouth, UK. As the head of development at [Yammayap](https://www.yammayap.com), I manage a team of developers that create bespoke software solutions built on Laravel that help businesses to grow. I have a passion for developing great software and helping others to do the same.
 
 Away from work you'll find me on the golf course ⛳️ or travelling ✈️.
 
